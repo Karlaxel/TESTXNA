@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>topbumper.png</Source>
+      <Name>topbumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\topbumper.xnb</Output>
+      <Time>2014-05-23T10:58:42.0928057+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bottombumper.png</Source>
+      <Name>bottombumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\bottombumper.xnb</Output>
+      <Time>2014-05-23T10:58:23.4057369+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Paddeltextur_Slutprojekt.jpg</Source>
+      <Name>Paddeltextur_Slutprojekt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Paddeltextur_Slutprojekt.xnb</Output>
+      <Time>2014-05-13T18:52:38.7953349+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PongBoll.jpg</Source>
+      <Name>PongBoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\PongBoll.xnb</Output>
+      <Time>2014-05-15T14:39:29.2962109+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu].mp3</Source>
+      <Name>Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu]</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu].xnb</Output>
+      <Extra>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu].wma</Extra>
+      <Time>2014-05-18T16:48:26.0060785+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ljudeffekt.wav</Source>
+      <Name>Ljudeffekt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Ljudeffekt.xnb</Output>
+      <Time>2014-05-22T15:19:50.217361+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-05-22T15:29:36.6328656+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Poängvisare.spritefont</Source>
+      <Name>Poängvisare</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Poängvisare.xnb</Output>
+      <Time>2014-05-22T16:24:15.7308674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pausfont.spritefont</Source>
+      <Name>Pausfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Pausfont.xnb</Output>
+      <Time>2014-05-23T10:38:22.3670414+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongCloneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongCloneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-07T11:17:18.3509049+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
