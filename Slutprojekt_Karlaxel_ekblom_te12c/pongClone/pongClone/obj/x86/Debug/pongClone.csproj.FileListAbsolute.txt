@@ -45,3 +45,19 @@ C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x
 C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\SpriteFont1.xnb
 C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Poängvisare.xnb
 C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Pausfont.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\topbumper.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\bottombumper.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Paddeltextur_Slutprojekt.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\PongBoll.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu].xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Ljudeffekt.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Poängvisare.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Pausfont.xnb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Content\Castlevania NES-05 - Heart of Fire (Dracula Main Castle BGM) [myfreemp3.eu].wma
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Karlaxel_Ekblom_TE12C.exe
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\bin\x86\Debug\Karlaxel_Ekblom_TE12C.pdb
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\obj\x86\Debug\pongClone.csprojResolveAssemblyReference.cache
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\obj\x86\Debug\Karlaxel_Ekblom_TE12C.exe
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongClone\obj\x86\Debug\Karlaxel_Ekblom_TE12C.pdb

@@ -1,3 +1,6 @@
+//Elias was here =)
+
+
 // kontroller för spelet tryck 1 för att köra mot ai tryck 2 för att köra 2 spelare tryck 4 för att pausa för spelet tryck 4 för att unpausa spelet 
 using System;
 using System.Collections.Generic;

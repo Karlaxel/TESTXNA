@@ -1,3 +1,4 @@
 C:\Users\nti\Documents\Visual Studio 2010\Projects\pongClone\pongClone\pongCloneContent\obj\x86\Debug\pongCloneContent.contentprojResolveAssemblyReference.cache
 C:\Users\nti\Desktop\pongClone\pongClone\pongCloneContent\obj\x86\Debug\pongCloneContent.contentprojResolveAssemblyReference.cache
 C:\Users\nti\Desktop\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongCloneContent\obj\x86\Debug\pongCloneContent.contentprojResolveAssemblyReference.cache
+C:\Users\nti\Desktop\TESTXNA\Slutprojekt_Karlaxel_ekblom_te12c\pongClone\pongCloneContent\obj\x86\Debug\pongCloneContent.contentprojResolveAssemblyReference.cache
